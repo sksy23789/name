@@ -1,0 +1,18 @@
+{
+    "name": "hello",
+    "description": "Deploy",
+    "keywords": ["hello"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "bec02d09-3a4d-439b-8946-05ad7235cad3"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/sksy23789/name/",
+    "stack": "container"
+}
